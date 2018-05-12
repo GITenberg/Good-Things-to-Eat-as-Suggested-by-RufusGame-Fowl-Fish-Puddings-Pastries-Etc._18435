@@ -1,0 +1,28 @@
+_repo: Good-Things-to-Eat-as-Suggested-by-RufusGame-Fowl-Fish-Puddings-Pastries-Etc._18435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Estes, Rufus
+    birthdate: 1857
+    gutenberg_agent_id: '8024'
+    url: http://www.gutenberg.org/2009/agents/8024
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18435'
+  lccn: '11010336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: "Good Things to Eat, as Suggested by Rufus\r\nA Collection of Practical Recipes\
+  \ for Preparing Meats, Game, Fowl, Fish, Puddings, Pastries, Etc."
+url: http://www.gutenberg.org/ebooks/18435
