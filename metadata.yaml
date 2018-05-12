@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8024'
     url: http://www.gutenberg.org/2009/agents/8024
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18435#Good-Things-to-Eat-as-Suggested-by-RufusGame-Fowl-Fish-Puddings-Pastries-Etc.
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2006-05-22'
 gutenberg_type: Text
